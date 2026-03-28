@@ -1,5 +1,11 @@
 # 💫 About Me:
-Mude Kalyan is a passionate and results-driven Full Stack Developer with hands-on experience in building scalable and user-focused web applications. He has worked as a Part-Time Software Developer at Baala Media Works and completed a 6-month internship at Sambin Technologies, where he contributed to real-world client projects and strengthened his development expertise.<br><br>Kalyan specializes in developing complete end-to-end solutions — from responsive front-end interfaces to secure and optimized backend systems with database integration. He has experience working on live projects including consultation booking platforms, portfolio websites, and business mentoring platforms.<br><br>With strong problem-solving skills, clean coding practices, and a startup-oriented mindset, he consistently focuses on building solutions that are practical, scalable, and performance-driven. He is actively enhancing his technical stack while preparing for higher studies abroad to expand his global exposure in technology and innovation.
+I am a passionate and results-driven Full Stack Developer with hands-on experience in building scalable, user-focused web applications. I specialize in developing end-to-end solutions, combining responsive front-end design with secure, high-performance backend systems and efficient database integration.
+
+Alongside my full stack expertise, I actively work with Artificial Intelligence and Large Language Models (LLMs), building intelligent applications that leverage automation, natural language processing, and data-driven insights. I focus on integrating AI capabilities into real-world systems to enhance user experience and functionality.
+
+I have developed projects such as consultation booking platforms, portfolio websites, and business mentoring applications, where I apply both full stack development and AI-driven approaches to deliver practical and scalable solutions.
+
+With strong problem-solving skills, clean coding practices, and a startup-oriented mindset, I aim to build efficient, performance-driven applications. I am continuously expanding my knowledge in AI, LLMs, and modern technologies while preparing for higher studies abroad to gain global exposure in innovation and technology.
 
 
 ## 🌐 Socials:
